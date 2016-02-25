@@ -3,3 +3,5 @@
 %uri=https://github.com/alencarfabricio/sqtich_aula.git
 
 schema_escola 2016-02-25T14:23:49Z fabricio <fabricio_dias@hotmail.com> # Add schema for escola
+aluno 2016-02-25T14:42:31Z fabricio <fabricio_dias@hotmail.com> # Cria tabela de aluno
+@1.0.0-4544 2016-02-25T14:59:57Z fabricio <fabricio_dias@hotmail.com> # TRRag para aluno e esquema_escola
